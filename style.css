@@ -1,0 +1,47 @@
+body{
+            
+    background-image: url("https://t4.ftcdn.net/jpg/02/91/28/31/360_F_291283120_MVcOtI3cGF4GAIPNOqbXpNQV6fA5owa0.jpg")
+                }
+
+#Pname{
+    font-style: inherit;
+    text-decoration: solid;
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(251, 255, 0);
+}
+
+
+
+#PMRP{
+    font-style:inherit;
+    text-decoration: solid;
+    font-size: 28px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(251, 255, 0);
+}
+
+#PDES{
+    font-style: inherit;
+    text-decoration: solid;
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(251, 255, 0);
+}
+
+#PPIC{
+    font-style: inherit;
+    text-decoration: solid;
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(251, 255, 0);
+}
+
+#PPROD{
+    font-style: inherit;
+    text-decoration: solid;
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   color: rgb(251, 255, 0);
+}
+
